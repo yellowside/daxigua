@@ -35,7 +35,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://ae02.alicdn.com/kf/H660e6e08f7874900a5223e235a57692bv.jpg';
+let adLink = 'https://cdn.jsdelivr.net/gh/yellowside/daxigua/res/yupi_wechat.png';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
